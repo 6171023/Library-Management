@@ -1,6 +1,10 @@
 # Library-Management
 
 A Python+MySQL project to create an application level library management system.
+
+Concept:
+To create a low-level application program to allow two types of users - librarian and member - to manage all book detail related info and user registration for borrowing books respectively.
+
 In summary, the program does the following:
 
 MySQL:
